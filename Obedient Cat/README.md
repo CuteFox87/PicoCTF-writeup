@@ -35,3 +35,6 @@ This file has a flag in plain sight (aka "in-the-clear"). [Download flag](./flag
 
 ## Flag
 ``picoCTF{s4n1ty_v3r1f13d_28e8376d}``
+
+## Concept
+單純教你如何使用wget去下載資料
