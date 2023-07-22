@@ -73,6 +73,8 @@ def enter_license():
 ```
 
 因此我們可以編寫解題程式
+求出key可以符合check_key的值
+
 ```py
 import hashlib
 
@@ -85,7 +87,7 @@ for i in list:
     print(hashlib.sha256(bUsername_trial).hexdigest()[i],end='')
 print('}')
 ```
-即獲得flag
+求出key即獲得flag
 
 ## Flag
 ``picoCTF{1n_7h3_|<3y_of_xxxxxxxx}``
