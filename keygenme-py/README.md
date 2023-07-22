@@ -90,7 +90,7 @@ print('}')
 求出key即獲得flag
 
 ## Flag
-``picoCTF{1n_7h3_|<3y_of_xxxxxxxx}``
+``picoCTF{1n_7h3_|<3y_of_f911a486}``
 
 ## Concept
 觀察
