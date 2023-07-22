@@ -2,13 +2,15 @@
 
 ## Information
 
-Point Value: **5 points**
+分數 : **5 points**
 
-Catgory: **General Skills**
+分類 : **General Skills**
 
 ## Description
 
-This file has a flag in plain sight (aka "in-the-clear"). [Download flag](./flag).
+This file has a flag in plain sight (aka "in-the-clear"). [Download flag](./flag).  
+這個檔案中的旗幟明顯可見（即 "in-the-clear"）  
+```"in the clear" 是一個通用的術語，用於表示資訊或數據在未經加密或隱藏的情況下明確可見和可讀。在資訊安全的上下文中，當資料是 "in the clear" 時，表示該資料並沒有受到任何形式的加密或隱藏。```
 
 ## Hints
 
